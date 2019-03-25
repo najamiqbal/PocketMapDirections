@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_weather"
+            android:icon="@drawable/ic_weathericon"
+            android:title="Weather" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_heart"
+            android:title="Favorites" />
+        <item
+            android:id="@+id/nav_planed"
+            android:icon="@drawable/ic_plan"
+            android:title="Planed Routes" />
+        <item
+            android:id="@+id/nav_nearbyplaces"
+            android:icon="@drawable/ic_add_location_black_24dp"
+            android:title="Nearby Places" />
+    </group>
+
+
+            <item
+                android:id="@+id/nav_speedo"
+                android:icon="@drawable/ic_speedometer"
+                android:title="Speedo Meter" />
+            <item
+                android:id="@+id/nav_compass"
+                android:icon="@drawable/ic_compass"
+                android:title="Compass" />
+    <item
+        android:id="@+id/nav_streetView"
+        android:icon="@drawable/home"
+        android:title="Street View" />
+
+</menu>

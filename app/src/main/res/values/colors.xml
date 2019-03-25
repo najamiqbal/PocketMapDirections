@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1E88E5</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="btnColor">#4285F4</color>
+    <color name="colorGreen">#1be421</color>
+    <color name="colorTintedBackground">#cdcdcd</color>
+    <color name="colorBackground">@android:color/transparent</color>
+
+    <color name="darkTheme_colorPrimary">#2196F3</color>
+    <color name="darkTheme_colorPrimaryDark">#1E88E5</color>
+    <color name="darkTheme_colorAccent">#2196F3</color>
+    <color name="darkTheme_colorBackground">#303030</color>
+    <color name="darkTheme_colorTintedBackground">#424242</color>
+
+    <color name="blackTheme_colorPrimary">#2196F3</color>
+    <color name="blackTheme_colorPrimaryDark">#1E88E5</color>
+    <color name="blackTheme_colorAccent">#2196F3</color>
+    <color name="blackTheme_colorBackground">#000000</color>
+    <color name="blackTheme_colorTintedBackground">#303030</color>
+
+    <color name="classic_colorPrimary">#607d8b</color>
+    <color name="classic_colorPrimaryDark">#455a64</color>
+    <color name="classic_colorAccent">#455a64</color>
+    <color name="classic_colorBackground">@android:color/transparent</color>
+    <color name="classic_colorTintedBackground">#cdcdcd</color>
+
+    <color name="classic_darkTheme_colorPrimary">#37474f</color>
+    <color name="classic_darkTheme_colorPrimaryDark">#263238</color>
+    <color name="classic_darkTheme_colorAccent">#90a4ae</color>
+    <color name="classic_darkTheme_colorBackground">#303030</color>
+    <color name="classic_darkTheme_colorTintedBackground">#263238</color>
+
+    <color name="classic_blackTheme_colorPrimary">#37474f</color>
+    <color name="classic_blackTheme_colorPrimaryDark">#263238</color>
+    <color name="classic_blackTheme_colorAccent">#90a4ae</color>
+    <color name="classic_blackTheme_colorBackground">#000000</color>
+    <color name="classic_blackTheme_colorTintedBackground">#303030</color>
+
+    <color name="splashBackground">#607d8b</color>
+
+    <color name="text_light">#ffffff</color>
+    <color name="text_dark">#000000</color>
+    <color name="tab_indicator">#ffffff</color>
+
+    <!-- RED Theme -->
+    <color name="primaryColorRed">#F44336</color>
+    <color name="primaryLightColorRed">#FFCDD2</color>
+    <color name="primaryDarkColorRed">#D32F2F</color>
+    <color name="secondaryColorRed">#FFC107</color>
+    <color name="secondaryLightColorRed">#CCC9BD</color>
+    <color name="secondaryDarkColorRed">#BBB8A7</color>
+    <color name="primaryTextColorRed">#ffffff</color>
+    <color name="secondaryTextColorRed">#000000</color>
+
+    <!-- LIGHTGREEN Theme -->
+    <color name="primaryColorLightGreen">#8BC34A</color>
+    <color name="primaryLightColorLightGreen">#DCEDC8</color>
+    <color name="primaryDarkColorLightGreen">#689F38</color>
+    <color name="secondaryColorLightGreen">#448AFF</color>
+    <color name="secondaryLightColorLightGreen">#83affa</color>
+    <color name="secondaryDarkColorLightGreen">#1e58b8</color>
+    <color name="primaryTextColorLightGreen">#ffffff</color>
+    <color name="secondaryTextColorLightGreen">#000000</color>
+
+    <!-- Lime Theme -->
+    <color name="primaryColorLime">#CDDC39</color>
+    <color name="primaryLightColorLime">#F0F4C3</color>
+    <color name="primaryDarkColorLime">#AFB42B</color>
+    <color name="secondaryColorLime">#7C4DFF</color>
+    <color name="secondaryLightColorLime">#ae94f5</color>
+    <color name="secondaryDarkColorLime">#4f2cb3</color>
+    <color name="primaryTextColorLime">#ffffff</color>
+    <color name="secondaryTextColorLime">#000000</color>
+
+    <!-- AMBER Theme -->
+    <color name="primaryColorAmber">#FFC107</color>
+    <color name="primaryLightColorAmber">#FFECB3</color>
+    <color name="primaryDarkColorAmber">#FFA000</color>
+    <color name="secondaryColorAmber">#03A9F4</color>
+    <color name="secondaryLightColorAmber">#65c4ef</color>
+    <color name="secondaryDarkColorAmber">#1e87b6</color>
+    <color name="primaryTextColorAmber">#ffffff</color>
+    <color name="secondaryTextColorAmber">#000000</color>
+
+    <!-- GRAY Theme -->
+    <color name="primaryColorGray">#9E9E9E</color>
+    <color name="primaryLightColorGray">#F5F5F5</color>
+    <color name="primaryDarkColorGray">#616161</color>
+    <color name="secondaryColorGray">#536DFE</color>
+    <color name="secondaryLightColorGray">#94a5ff</color>
+    <color name="secondaryDarkColorGray">#2c44c9</color>
+    <color name="primaryTextColorGray">#ffffff</color>
+    <color name="secondaryTextColorGray">#000000</color>
+
+
+
+</resources>

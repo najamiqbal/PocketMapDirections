@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:id="@+id/rowlayout"
+    android:foreground="?attr/selectableItemBackground"
+   >
+
+    <ImageView
+        android:id="@+id/dot"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/ic_add_location_black_24dp"
+        android:includeFontPadding="false"
+        />
+
+    <TextView
+        android:id="@+id/placetitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/dot"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"
+        android:text="Sialkot"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/placetitle"
+        android:layout_toRightOf="@id/dot"
+        android:textColor="#000"
+        android:text="Heloo"
+        android:textSize="12sp" />
+
+
+    <ImageButton
+        android:src="@drawable/ic_delete_black_24dp"
+        android:id="@+id/delete"
+        android:background="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/subtitle"
+        android:layout_alignParentEnd="true"
+        android:visibility="visible"
+        android:layout_alignParentRight="true" />
+
+    <ImageButton
+        android:src="@drawable/ic_navigation_black_24dp"
+        android:id="@+id/navigate"
+        android:background="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/subtitle"
+        android:layout_toLeftOf="@id/delete"
+        android:layout_marginRight="10dp"
+        android:visibility="visible"
+        android:layout_toStartOf="@id/delete"
+        android:layout_marginEnd="10dp" />
+
+</RelativeLayout>
